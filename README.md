@@ -82,10 +82,10 @@ Janeiro de 2026 - Desenvolvimento de software.
  ---
  
 ## Nomeclatura das branchs
-feat: nova funcionalidade
-fix: correção
-refactor: reorganização
-docs: documentação
+- feat: nova funcionalidade
+- fix: correção
+- refactor: reorganização
+- docs: documentação
 ---
 
 ## 🧰 Tecnologias Utilizadas
